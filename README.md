@@ -1,8 +1,8 @@
-# Marvel API - Metractive Labs - GraphQL
+# Marvel API - Lab - GraphQL
 
-Informações disponíveis na [API](https://developer.marvel.com)
+Information are available in Marvel [API](https://developer.marvel.com)
 
-Criar configurações de ambiente *.env* com os dados fornecidos da plataforma da Marvel.
+Create your own *.env* file with the available data in your Marvel API account.
 
 ```bash
 PUBLIC_KEY=
